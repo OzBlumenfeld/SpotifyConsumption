@@ -1,0 +1,24 @@
+{
+  "name": "spotifyconsumption",
+  "version": "1.0.0",
+  "description": "Spotify consumption report service",
+  "main": "index.js",
+  "scripts": {
+    "test": "./index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "will be published soon"
+  },
+  "keywords": [
+    "Nodejs",
+    "REST",
+    "Spotify",
+    "microservice"
+  ],
+  "author": "Oz Blumenfeld",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
